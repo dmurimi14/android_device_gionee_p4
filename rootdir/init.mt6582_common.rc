@@ -987,4 +987,3 @@ service enableswap /system/bin/sh /enableswap.sh
     class core
     oneshot	
 
-
