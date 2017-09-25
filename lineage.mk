@@ -12,7 +12,7 @@ PRODUCT_LOCALES := en_US ru_RU en_AU en_IN fr_FR it_IT es_ES et_EE de_DE nl_NL c
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := GIONEE
-PRODUCT_NAME := GIONEE
+PRODUCT_NAME := lineage_p4
 PRODUCT_BRAND := GIONEE
 PRODUCT_MODEL := P4
 PRODUCT_MANUFACTURER := GIONEE
