@@ -218,7 +218,7 @@
     <bool name="config_dozeAfterScreenOff">true</bool>
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
 	
-<integer name="config_proximityCheckTimeout">400</integer> -->
+<integer name="config_proximityCheckTimeout">400</integer>
 	<!-- The RadioAccessFamilies supported by the device.
          Empty is viewed as "all".  Only used on devices which
          don't support RIL_REQUEST_GET_RADIO_CAPABILITY
