@@ -193,10 +193,6 @@ public class MediaTekRIL extends RIL implements CommandsInterface {
     static final int RIL_UNSOL_CNAP = (RIL_UNSOL_MTK_BASE + 30);
     static final int RIL_UNSOL_STK_EVDL_CALL = (RIL_UNSOL_MTK_BASE + 31);
 
-    // TODO: Support multiSIM
-    // Sim IDs are 0 / 1
-    int mSimId = 0;
-
 
     public MediaTekRIL(Context context, int networkMode, int cdmaSubscription) {
 	    super(context, networkMode, cdmaSubscription, null);
